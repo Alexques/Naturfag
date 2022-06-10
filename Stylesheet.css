@@ -1,12 +1,21 @@
-
-
 div {margin-left: 40%;
 font-family: Verdana;
 font-size: 20px;
-}body 
-{
 
-}h1 {
-color: black;
+
+
+
 }
 
+
+
+body {
+background-color: rgb(182, 243, 182);
+}
+
+
+
+h1 {
+color: black;
+
+}
